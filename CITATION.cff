@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the associated manuscript."
+title: "Axion Star Solvers"
+version: "0.1.0"
+type: software
+authors:
+  - family-names: "Arabameri"
+    given-names: "Parisa"
+  - family-names: "Colipí-Marchant"
+    given-names: "Francisco"
+repository-code: "https://github.com/Parisa-Arabameri/AxionStar"
+preferred-citation:
+  type: article
+  title: "A Unified Numerical Study of Axion Stars from the Nonrelativistic Regime to General Relativity"
+  authors:
+    - family-names: "Arabameri"
+      given-names: "Parisa"
+    - family-names: "Arias"
+      given-names: "Paola"
+    - family-names: "Colipí-Marchant"
+      given-names: "Francisco"
+    - family-names: "Schiappacasse"
+      given-names: "Enrico D."
+references:
+  - type: article
+    title: "Probing Dynamics of Boson Stars by Fast Radio Bursts and Gravitational Wave Detection"
+    authors:
+      - family-names: "Choi"
+        given-names: "Gongjun"
+      - family-names: "He"
+        given-names: "Hong-Jian"
+      - family-names: "Schiappacasse"
+        given-names: "Enrico D."
+    identifiers:
+      - type: other
+        value: "arXiv:1906.02094"
+  - type: article
+    title: "Beyond Schrodinger-Poisson: Nonrelativistic Effective Field Theory for Scalar Dark Matter"
+    authors:
+      - family-names: "Salehian"
+        given-names: "Borna"
+      - family-names: "Zhang"
+        given-names: "Hong-Yi"
+      - family-names: "Amin"
+        given-names: "Mustafa A."
+      - family-names: "Kaiser"
+        given-names: "David I."
+      - family-names: "Namjoo"
+        given-names: "Mohammad Hossein"
+    identifiers:
+      - type: other
+        value: "arXiv:2104.10128"
+  - type: article
+    title: "Numerical studies of Phi^2-Oscillatons"
+    authors:
+      - family-names: "Alcubierre"
+        given-names: "Miguel"
+      - family-names: "Becerril"
+        given-names: "Ricardo"
+      - family-names: "Guzman"
+        given-names: "F. Siddhartha"
+      - family-names: "Matos"
+        given-names: "Tonatiuh"
+      - family-names: "Nunez"
+        given-names: "Dario"
+      - family-names: "Urena-Lopez"
+        given-names: "L. Arturo"
+    identifiers:
+      - type: other
+        value: "arXiv:gr-qc/0301105"

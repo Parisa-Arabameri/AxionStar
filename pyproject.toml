@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "axionstar"
+version = "0.1.0"
+description = "Numerical equilibrium solvers for axion-star mass-radius sequences."
+authors = [
+  {name = "Parisa Arabameri"},
+  {name = "Francisco Colipí-Marchant"},
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "scipy",
+  "pandas",
+  "matplotlib",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["axionstar*"]
+
