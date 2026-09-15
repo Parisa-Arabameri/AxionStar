@@ -34,9 +34,8 @@ If this software is used in research, please cite the associated manuscript:
 > "A Unified Numerical Study of Axion Stars from the Nonrelativistic Regime to
 > General Relativity."
 
-The manuscript does not yet have an arXiv or DOI identifier. Citation metadata
-will be updated when a public identifier is available. Machine-readable citation
-information is provided in [`CITATION.cff`](CITATION.cff).
+The manuscript is available on arXiv as [arXiv:2609.13638](https://arxiv.org/abs/2609.13638) (*A Unified Numerical Study of Axion Stars: From the Nonrelativistic Regime to General Relativity*).
+Machine-readable citation information is provided in [`CITATION.cff`](CITATION.cff).
 
 Source code repository: `https://github.com/Parisa-Arabameri/AxionStar`
 
