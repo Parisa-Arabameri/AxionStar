@@ -21,6 +21,9 @@ preferred-citation:
       given-names: "Francisco"
     - family-names: "Schiappacasse"
       given-names: "Enrico D."
+identifiers:
+    - type: other
+      value: "arXiv:2609.13638"
 references:
   - type: article
     title: "Probing Dynamics of Boson Stars by Fast Radio Bursts and Gravitational Wave Detection"
